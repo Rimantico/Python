@@ -1,0 +1,412 @@
+[
+  {
+    "antes": "reto_01.py",
+    "ahora": "retos/reto_01.py",
+    "sha256": "48934bda3ea75bb48b27e87f8a86c5889ca26301fcd46e3d1197e0e60f42e0e3"
+  },
+  {
+    "antes": "reto_02.py",
+    "ahora": "retos/reto_02.py",
+    "sha256": "2db7c436194b9b358b75fad91ccc6a8f6c60f0a52db2719a506d5e6e7cff4d9e"
+  },
+  {
+    "antes": "reto_03.py",
+    "ahora": "retos/reto_03.py",
+    "sha256": "b21dc9abd233011747e157ad57455d0b7ed83fc7113c6a27c4b902e862cebd9f"
+  },
+  {
+    "antes": "reto_04.py",
+    "ahora": "retos/reto_04.py",
+    "sha256": "308f8866742d7d3e38746bbfe0707d9db38ea8c45a33cd25e1ce44bc5347f819"
+  },
+  {
+    "antes": "reto_05.py",
+    "ahora": "retos/reto_05.py",
+    "sha256": "c36480df3f81e093d8bde8df7670034bf311213603aaf2972f5345cc8701d8c1"
+  },
+  {
+    "antes": "reto_06.py",
+    "ahora": "retos/reto_06.py",
+    "sha256": "1d42da704fb3a031bc6a4cf2a04e0b5154e357b18c321d2ad9b4bfd9ed87dde2"
+  },
+  {
+    "antes": "reto_07.py",
+    "ahora": "retos/reto_07.py",
+    "sha256": "17d87e0a396820f3f12226e011c53364bc14ef28e9ea8dc6045a67f7d920dbbb"
+  },
+  {
+    "antes": "reto_08.py",
+    "ahora": "retos/reto_08.py",
+    "sha256": "82cd1d6bcfbc99071157cb66abc18d0637f96fc4da2acaa57a84a8c3691a607a"
+  },
+  {
+    "antes": "reto_09.py",
+    "ahora": "retos/reto_09.py",
+    "sha256": "3618c96d9d526e13a390af700592dd45b14a60d7fbb8aedf4bed7fec66416f94"
+  },
+  {
+    "antes": "reto_10.py",
+    "ahora": "retos/reto_10.py",
+    "sha256": "a2820d75fd98069a5a536f1193ed4029074a350a754defa04d7325dd354bbb0a"
+  },
+  {
+    "antes": "reto_11.py",
+    "ahora": "retos/reto_11.py",
+    "sha256": "95f8623639d11a76f4028d8faf7eeb9c020421e53db061775af1262893ba38ca"
+  },
+  {
+    "antes": "reto_12.py",
+    "ahora": "retos/reto_12.py",
+    "sha256": "67b1f309410ddc49f8445c9e4472e20f4dc9a8ac2352438f4b6fc6d92512d5ac"
+  },
+  {
+    "antes": "reto_13.py",
+    "ahora": "retos/reto_13.py",
+    "sha256": "45bd56f79eb51e131fef7f0a50d91fe1ef37e9f1855ba0597003cb10ef34b8c5"
+  },
+  {
+    "antes": "reto_14.py",
+    "ahora": "retos/reto_14.py",
+    "sha256": "0b9ea7cdf13844a737816ff514ea0bbc95933fb84381ae410f13f430e22fe222"
+  },
+  {
+    "antes": "reto_15.py",
+    "ahora": "retos/reto_15.py",
+    "sha256": "354a8027ea93df499ea20b07cb1bada333826c44ebc0c366eed82e33e1c834ee"
+  },
+  {
+    "antes": "reto_16.py",
+    "ahora": "retos/reto_16.py",
+    "sha256": "5ff3650d7fc6e84bf48c58dc7fdc986798509ca55fbd5d05155212452a85c174"
+  },
+  {
+    "antes": "reto_17.py",
+    "ahora": "retos/reto_17.py",
+    "sha256": "a1719a963bc8ede2884bbc6eb1b7abb0ac45cb04c88c994794bbbe1593ad565a"
+  },
+  {
+    "antes": "reto_18.py",
+    "ahora": "retos/reto_18.py",
+    "sha256": "21375e69ba440eccc07b10b6fbd33b32f188e19768375b651d8a097bd3e0907b"
+  },
+  {
+    "antes": "reto_19.py",
+    "ahora": "retos/reto_19.py",
+    "sha256": "6139c1bb97f22142c182fe5d3d1942728ad4cdeffd91034b81a3c1a33da9bf26"
+  },
+  {
+    "antes": "reto_20.py",
+    "ahora": "retos/reto_20.py",
+    "sha256": "49c34ac18f3d837562efdf2a9c134814ba3d76366c1c9664e80dce0005b68106"
+  },
+  {
+    "antes": "reto_21.py",
+    "ahora": "retos/reto_21.py",
+    "sha256": "339b82d30c03ee4e74809feaa29681ed009df5a8bd14d833cc23c624c670d94b"
+  },
+  {
+    "antes": "reto_22.py",
+    "ahora": "retos/reto_22.py",
+    "sha256": "c6fa3a3c88bfd75d8bed7aa3b67afd4cdf292395fde1ae86f80e981b8e1df2c9"
+  },
+  {
+    "antes": "reto_23.py",
+    "ahora": "retos/reto_23.py",
+    "sha256": "16c434dc26c4b75c27afe4a9bc480b8b849c1d903018bc89b8fd70a620e4a458"
+  },
+  {
+    "antes": "reto_24.py",
+    "ahora": "retos/reto_24.py",
+    "sha256": "2acdd38a041de7e22f4c2ff58105f632debd484dbd2a5357798b726b9278c3eb"
+  },
+  {
+    "antes": "reto_25.py",
+    "ahora": "retos/reto_25.py",
+    "sha256": "1c9288d8682bb22320add49edc79a5df81a293472851152faf70ed9557108418"
+  },
+  {
+    "antes": "reto_26.py",
+    "ahora": "retos/reto_26.py",
+    "sha256": "c165644cb9ceec309816ac8ffc5447dbec3a2d58f0356dd16b7e2a31c6fc1344"
+  },
+  {
+    "antes": "reto_27.py",
+    "ahora": "retos/reto_27.py",
+    "sha256": "5033441e51339f5bc0aa798b04d9c687196eee0293410d4184ebc91df7b17ba4"
+  },
+  {
+    "antes": "reto_28.py",
+    "ahora": "retos/reto_28.py",
+    "sha256": "a1fa610457c3e92e46d4750b518d7c76b224461fd119f2e0c20c9cd0da0c2487"
+  },
+  {
+    "antes": "reto_29.py",
+    "ahora": "retos/reto_29.py",
+    "sha256": "d11ffb0f39313d05b4fd579875717be732302197a95e6bcdf582c82ad331875d"
+  },
+  {
+    "antes": "reto_30.py",
+    "ahora": "retos/reto_30.py",
+    "sha256": "c403b557bb6885879fbbfcf48dd54eb789e74b312ef9036e0b1be85084f120c6"
+  },
+  {
+    "antes": "reto_31.py",
+    "ahora": "retos/reto_31.py",
+    "sha256": "beb576fff2f809447dd1e757ee1b7c912e84ca78092b04bcdd546c0064a0455c"
+  },
+  {
+    "antes": "reto_32.py",
+    "ahora": "retos/reto_32.py",
+    "sha256": "62204cc26696fec3649e3f23ae6ec3133eb4852d2bcbfedcdb6de53b6682e855"
+  },
+  {
+    "antes": "reto_33.py",
+    "ahora": "retos/reto_33.py",
+    "sha256": "544bdba6f28f8fe4dafe5d95cd2d88651cd63034630cbad64b9fd18e4a9d615b"
+  },
+  {
+    "antes": "reto_34.py",
+    "ahora": "retos/reto_34.py",
+    "sha256": "76a89095b6658091377f2cc2d808129642b306762a69c4da0ac9653ce5418f5d"
+  },
+  {
+    "antes": "reto_35.py",
+    "ahora": "retos/reto_35.py",
+    "sha256": "703737c9396aef85ab4ba8b47f95168e12d42ab4a0ebe27a5c1bdd4219abbc7f"
+  },
+  {
+    "antes": "reto_36.py",
+    "ahora": "retos/reto_36.py",
+    "sha256": "f7863e7bbea88567730a14fda4e333ff7587b7edbb6818467497b961db4f8608"
+  },
+  {
+    "antes": "reto_37.py",
+    "ahora": "retos/reto_37.py",
+    "sha256": "2c9792e965f7bf28e02accc513777da343ed16226d931f39581adc46b727d67f"
+  },
+  {
+    "antes": "reto_38.py",
+    "ahora": "retos/reto_38.py",
+    "sha256": "0f51f9ee05df89d6ef16e38189866dfe79224c2758b8ac86efe3c2f42285bd19"
+  },
+  {
+    "antes": "reto_39.py",
+    "ahora": "retos/reto_39.py",
+    "sha256": "1cac9388a99f95361c1741e80736e4cacd49e8791deb7280b8f737cb700e6825"
+  },
+  {
+    "antes": "reto_40.py",
+    "ahora": "retos/reto_40.py",
+    "sha256": "4c9078f50311b91aef12a7552e58783cb2e9bbd48d0640f95d9813d07552e22e"
+  },
+  {
+    "antes": "reto_41.py",
+    "ahora": "retos/reto_41.py",
+    "sha256": "127ba9bffa1d1045a0a506f67d9cc1a7708b5cb36b906ca0f64d7cc73d9e19d9"
+  },
+  {
+    "antes": "reto_42.py",
+    "ahora": "retos/reto_42.py",
+    "sha256": "cffbe28bb06a6f61e8d05d572d1d5610117ef82e9de47c15205c24bdb1418d6f"
+  },
+  {
+    "antes": "reto_43.py",
+    "ahora": "retos/reto_43.py",
+    "sha256": "664edbbceaf8a05a77c418713af7de4fa12fa73d3f6e527f6700c8ea241b0305"
+  },
+  {
+    "antes": "reto_44.py",
+    "ahora": "retos/reto_44.py",
+    "sha256": "f598b3035a12b40a6efe35cc29bf2fe7efafd775d1896417e188b2c8382d35a4"
+  },
+  {
+    "antes": "reto_45.py",
+    "ahora": "retos/reto_45.py",
+    "sha256": "9fd56c219cb7619411c33267fa44f272d276f4fb0fd47934690db0dbb876dca6"
+  },
+  {
+    "antes": "reto_46.py",
+    "ahora": "retos/reto_46.py",
+    "sha256": "e5492e1b88d80696940a9a2f12256c995d94d74cc499e489972dd8155eba2a44"
+  },
+  {
+    "antes": "reto_47.py",
+    "ahora": "retos/reto_47.py",
+    "sha256": "081201bc390e44db546fb9666eabdaf85b9b2a62e7deaecc22a88c64e42c59d3"
+  },
+  {
+    "antes": "reto_48.py",
+    "ahora": "retos/reto_48.py",
+    "sha256": "d74ef9ba115914bb70b11b673a3684ff41846cfe6e90b3f62b02b2ddfc9f16dc"
+  },
+  {
+    "antes": "reto_49.py",
+    "ahora": "retos/reto_49.py",
+    "sha256": "19dcc579b5065d255ac7f173ffa71ae2578a2c8bf9c8bade056d307eb563ed4c"
+  },
+  {
+    "antes": "reto_50.py",
+    "ahora": "retos/reto_50.py",
+    "sha256": "99625f1337667d7f818710833b9d2eed45e733299b0e96d7e070af0bc06fa794"
+  },
+  {
+    "antes": "reto_52.py",
+    "ahora": "retos/reto_52.py",
+    "sha256": "21a1cfee5c7e90130b955a7aee020ecbbe2e5083fd889fbbdee7bee0c4ddd38a"
+  },
+  {
+    "antes": "reto_53.py",
+    "ahora": "retos/reto_53.py",
+    "sha256": "1797b2f0a9c432e2a1ebfc67372cd56467bf4050f64b0b75418293776e39d3fd"
+  },
+  {
+    "antes": "reto_55.py",
+    "ahora": "retos/reto_55.py",
+    "sha256": "b4fcced00f93095c0d81d81d7512d97d60139a673df6d62b189b3bc8eb28be22"
+  },
+  {
+    "antes": "reto_56.py",
+    "ahora": "retos/reto_56.py",
+    "sha256": "c7949c47e0afbbc49e065fb02e4dc89d82a59e9ce80bdb37a116ed9a3ccb048e"
+  },
+  {
+    "antes": "reto_57.py",
+    "ahora": "retos/reto_57.py",
+    "sha256": "492f993bf48de499e9979ae1f3d4561ad05f285898f9b9134fe26b39b4ee8d89"
+  },
+  {
+    "antes": "reto_58.py",
+    "ahora": "retos/reto_58.py",
+    "sha256": "4597625d9764b0301b800b13ede7f63091ba42607f15651f834bf02be712a340"
+  },
+  {
+    "antes": "reto_69.py",
+    "ahora": "retos/reto_69.py",
+    "sha256": "5effe1b60cf2285b52bfb426ea8506cc4b066ff7f0435789261ed819afcf2b9b"
+  },
+  {
+    "antes": "reto_70.py",
+    "ahora": "retos/reto_70.py",
+    "sha256": "9364c0c0ea6d439aecd2dc0e1f49d1d60e750e15c7fd91a4986b162339a3c285"
+  },
+  {
+    "antes": "reto_71.py",
+    "ahora": "retos/reto_71.py",
+    "sha256": "aabd2e285bc32d0f80b78bc042ad549a4202e503da0482598f296f2f9d1c1a90"
+  },
+  {
+    "antes": "reto_72.py",
+    "ahora": "retos/reto_72.py",
+    "sha256": "a70d69ed879c6351812179fd64987b67a01e8e91ea7662e64e526e8ec12dc388"
+  },
+  {
+    "antes": "reto_73.py",
+    "ahora": "retos/reto_73.py",
+    "sha256": "71d3d03c17343af7ce828f6016d2d5422bcffb749afeb9b2058335d23b11ad59"
+  },
+  {
+    "antes": "reto_75.py",
+    "ahora": "retos/reto_75.py",
+    "sha256": "3db603d1bcaaedb91de99639c9683fff4150ffa0d55ff2f38bdcf63ebc2bc059"
+  },
+  {
+    "antes": "reto_76.py",
+    "ahora": "retos/reto_76.py",
+    "sha256": "8fe9c015660112fdb73d6bcbf7188a34fd1445e8a369545624a37f1e15510f9a"
+  },
+  {
+    "antes": "reto_77.py",
+    "ahora": "retos/reto_77.py",
+    "sha256": "bd148e763236a0bf6be260d9fa47b90933763a32e990eb9d991ea35296af5119"
+  },
+  {
+    "antes": "reto_78.py",
+    "ahora": "retos/reto_78.py",
+    "sha256": "f75798ee99d088b10c0b469a03b6d0e57b824b9db75faa04758a39f31d670289"
+  },
+  {
+    "antes": "reto_79.py",
+    "ahora": "retos/reto_79.py",
+    "sha256": "4677b7b6a764f93967d4bd2e54ff8d8e77da8122c20025518721595070521fb6"
+  },
+  {
+    "antes": "reto_80.py",
+    "ahora": "retos/reto_80.py",
+    "sha256": "d7cea3ce4b726aac77261cebf76360a99dc5e6f3a89d299149235e98336ab96d"
+  },
+  {
+    "antes": "reto_81.py",
+    "ahora": "retos/reto_81.py",
+    "sha256": "eee4f5fb51b19970f7f00698558e06443cef7ac11573c5420cbda612b88f8a9a"
+  },
+  {
+    "antes": "reto_82.py",
+    "ahora": "retos/reto_82.py",
+    "sha256": "c3f725b016b92e0aee2ad44d56a5af32c3112fe6227dd082126f54e40ae126f5"
+  },
+  {
+    "antes": "reto_83.py",
+    "ahora": "retos/reto_83.py",
+    "sha256": "36e2e9830ee795cb28097e81098bba317349f55c541fc5156fb2003d248029ba"
+  },
+  {
+    "antes": "reto_84.py",
+    "ahora": "retos/reto_84.py",
+    "sha256": "dc0c531f0d728834783a2e90e20eec87e1978ff9f7f7a89482066f3aec034be5"
+  },
+  {
+    "antes": "reto_85.py",
+    "ahora": "retos/reto_85.py",
+    "sha256": "a4d66177e2fad9331800b4663f331a1cf6631e8c4450b5ffc3a3f06f9160d848"
+  },
+  {
+    "antes": "reto_86.py",
+    "ahora": "retos/reto_86.py",
+    "sha256": "d85a55fb68f522a9b6cd1963f1ab37ec1073bef8ab6213d9c78bc8a2f2a8aa61"
+  },
+  {
+    "antes": "reto_87.py",
+    "ahora": "retos/reto_87.py",
+    "sha256": "cb76c79eb753d6d4764c1cf68d7dfb9098fc8cefbd65ea5c829b7686d1863e19"
+  },
+  {
+    "antes": "reto_88.py",
+    "ahora": "retos/reto_88.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "antes": "EjemploClase.py",
+    "ahora": "ejemplos/EjemploClase.py",
+    "sha256": "ea949194c18fa4d59d5466e0cf9e583b9599e7695959ded3d7fd8be62e27145b"
+  },
+  {
+    "antes": "palindromas.py",
+    "ahora": "ejemplos/palindromas.py",
+    "sha256": "ce6077837908855388663b6893744cb4a786723d9c5e4a768ae5e818f848b493"
+  },
+  {
+    "antes": "prueba.py",
+    "ahora": "pruebas/prueba.py",
+    "sha256": "310f7853c84f8d236babb2648b6c357c795480903ed42b4daece07f76c3e9031"
+  },
+  {
+    "antes": "prueba2.py",
+    "ahora": "pruebas/prueba2.py",
+    "sha256": "78b23197b170a78bbc1a2401b4f31203f95fa3e16808c11d02cc86410edb778b"
+  },
+  {
+    "antes": "pyto.py",
+    "ahora": "herramientas/automatizacion/pyto.py",
+    "sha256": "7e9eca7c6cd7fd22b7a50616a0db18e6c75b669e23de0041f07fd1ffe5e6b77c"
+  },
+  {
+    "antes": "Ping con host.py",
+    "ahora": "herramientas/ping/Ping con host.py",
+    "sha256": "bbba2cf7910b387c2adac2b7cb4cbdd1555c149cc6c99c7d42c4c219414bd52f"
+  },
+  {
+    "antes": "host.txt",
+    "ahora": "herramientas/ping/host.txt",
+    "sha256": "706c6deb643a62996b25c1ee297603767aca8935e17fc25abb1d93ae10ca0212"
+  }
+]
